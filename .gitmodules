@@ -1,0 +1,6 @@
+[submodule "codelab-nestjs"]
+	path = codelab-nestjs
+	url = https://github.com/T3kstiil3/codelab-nestjs
+[submodule "talks/nestjs"]
+	path = talks/nestjs
+	url = https://github.com/T3kstiil3/codelab-nestjs
