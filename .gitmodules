@@ -4,3 +4,6 @@
 [submodule "talks/vuejs"]
 	path = talks/vuejs
 	url = https://github.com/T3kstiil3/vue-hack-in-the-wood-2019
+[submodule "talks/bazel"]
+	path = talks/bazel
+	url = https://github.com/T3kstiil3/bazel-bazel-bazel
